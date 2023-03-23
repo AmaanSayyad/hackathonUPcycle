@@ -88,9 +88,6 @@ Virtual Try-On Network](https://arxiv.org/pdf/1807.07688v3.pdf)
 
 ---
 
-## Challenges we ran into 😤
-We faced some challenges during the hackathon, many of which ironically related to working remotely. One of the major challenges was the time difference. All of us participated from different time zones, which created communication challenges.
-
 ## What's next for Upcycle 🚀
 Upcycle's future plans include expanding its reach to a larger audience by partnering with fashion retailers and promoting sustainable fashion. The team also aims to further improve the machine learning algorithms to provide more accurate analysis and recommendations for upcycling. In addition, they plan to collaborate with tailors and seamstresses to create upcycled fashion products and promote their work. Upcycle also intends to raise awareness about the importance of reducing clothing waste and promoting sustainability in the fashion industry by organizing events and campaigns. Ultimately, Upcycle aims to revolutionize the clothing industry by creating a more sustainable and socially responsible future.
 
